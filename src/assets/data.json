@@ -1,0 +1,58 @@
+[
+    {
+      "id": "R001",
+      "name": "Fatima Musa",
+      "role": "requester",
+      "department": "Computer Science",
+      "phone": "08012345678",
+      "email": "fatima@ful.edu.ng"
+    },
+    {
+      "id": "R002",
+      "name": "James Okeke",
+      "role": "requester",
+      "department": "Library Services",
+      "phone": "08123456789",
+      "email": "jokeke@ful.edu.ng"
+    },
+    {
+      "id": "R003",
+      "name": "Halima Yusuf",
+      "role": "requester",
+      "department": "Biological Sciences",
+      "phone": "07098765432",
+      "email": "halima@ful.edu.ng"
+    },
+    {
+      "id": "F001",
+      "name": "Umar Bello",
+      "role": "staff",
+      "department": "Electrical Maintenance",
+      "phone": "08076543210",
+      "email": "ubello@ful.edu.ng"
+    },
+    {
+      "id": "F002",
+      "name": "Blessing Ade",
+      "role": "staff",
+      "department": "Plumbing",
+      "phone": "07012344321",
+      "email": "bade@ful.edu.ng"
+    },
+    {
+      "id": "F003",
+      "name": "Ibrahim Musa",
+      "role": "staff",
+      "department": "General Repairs",
+      "phone": "08199887766",
+      "email": "imusafix@ful.edu.ng"
+    },
+    {
+      "id": "A001",
+      "name": "Admin",
+      "role": "admin",
+      "username": "admin01",
+      "password": "adminpass"
+    }
+  ]
+  

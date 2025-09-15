@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+    --color-navy-850: hsl(217, 28%, 15%);
+    --color-navy-900: hsl(218, 28%, 13%);
+    --color-navy-950: hsl(216, 53%, 9%);
+    --color-teal-200: hsl(176, 68%, 64%);
+    --color-cyan-500: hsl(198, 60%, 50%);
+    --color-red-500: hsl(0, 100%, 63%);
+}
